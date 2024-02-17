@@ -1,5 +1,4 @@
 # peeklean
 
-running Dev server # npm run dev
-
+running Dev server # docker-compose up --build
 running production container # docker run peeklean-frontend
