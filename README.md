@@ -1,4 +1,4 @@
 # peeklean
 
-running Dev server # docker-compose up --build
-running production container # docker-compose -f docker-compose.production.yml up --build
+running Dev server # npm run dev
+running production container # npm run start
